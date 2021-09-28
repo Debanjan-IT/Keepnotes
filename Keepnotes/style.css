@@ -1,0 +1,62 @@
+body{
+    text-align: center;
+    background-image: url('bg.jfif');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.title-text{
+    font-family: cursive;
+    font-size: 2em;
+    font-weight: bolder;
+}
+.title{
+    position: sticky;
+}
+
+.input{
+    width: 70%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+.button{
+    cursor: pointer;
+    border: 1px solid #00bb1f;
+    background-color: transparent;
+    height: 50px;
+    width: 300px;
+    color: #00bb1f;
+    font-size: 1.5em;
+    box-shadow: 0 6px 6px rgba(0, 0, 0, 0.6);
+}
+.input2{
+    background: transparent;
+    border: none;
+    text-align: center;
+    font-family: cursive;
+    font-size: 2em;
+    font-weight: bolder;
+}
+.form{
+    padding: 20px;
+}
+.data{
+    padding: 20px;
+    cursor: pointer;
+    background-color: transparent;
+}
+.heading{
+    font-size: 1.5em;
+    font-family: cursive;
+    font-weight: bolder;
+}
+.text{
+    font-size: 1em;
+    font-family: monospace;
+    font-weight: bolder;
+}
